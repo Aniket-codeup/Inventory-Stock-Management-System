@@ -1,0 +1,2 @@
+# Standard library modules used: sqlite3, csv, datetime, decimal, tkinter, unittest
+# No external packages required for the core application.
